@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LSRP Auto Unscrambler", "LSRP Auto Unscrambler\LSRP Auto Unscrambler.vcxproj", "{B1B1A15F-45EE-4BFF-9C2D-A174E2EFD450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B1A15F-45EE-4BFF-9C2D-A174E2EFD450}.Debug|x64.ActiveCfg = Debug|x64
+		{B1B1A15F-45EE-4BFF-9C2D-A174E2EFD450}.Debug|x64.Build.0 = Debug|x64
+		{B1B1A15F-45EE-4BFF-9C2D-A174E2EFD450}.Debug|x86.ActiveCfg = Debug|Win32
+		{B1B1A15F-45EE-4BFF-9C2D-A174E2EFD450}.Debug|x86.Build.0 = Debug|Win32
+		{B1B1A15F-45EE-4BFF-9C2D-A174E2EFD450}.Release|x64.ActiveCfg = Release|x64
+		{B1B1A15F-45EE-4BFF-9C2D-A174E2EFD450}.Release|x64.Build.0 = Release|x64
+		{B1B1A15F-45EE-4BFF-9C2D-A174E2EFD450}.Release|x86.ActiveCfg = Release|Win32
+		{B1B1A15F-45EE-4BFF-9C2D-A174E2EFD450}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EE9EBD7-4CE4-4EA3-AE42-09FECE98F118}
+	EndGlobalSection
+EndGlobal
